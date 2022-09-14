@@ -1,7 +1,6 @@
+//translating form decimal to octal between 0 to 32767
+
 #include<stdio.h>
-/translating form decimal to octal between 0 to 32767
-
-
 
 int main()
 {
