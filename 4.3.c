@@ -1,4 +1,4 @@
-/revalsal of a three digit number without using arithmetic to split the number into digits
+//revalsal of a three digit number without using arithmetic to split the number into digits
 
 
 #include<stdio.h>
